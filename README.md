@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jamesHargreaves12
 - 👀 I’m interested in AI, building tools to make develops more effective.
-- 💞️ I’m looking to collaborate.
 - 📫 How to reach me jameshargreaves12@gmail.com
 
 <!---
